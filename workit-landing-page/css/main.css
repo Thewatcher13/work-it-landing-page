@@ -203,7 +203,7 @@ header::after {
 .hero__picture {
   max-width: 20rem;
   position: absolute;
-  top:23.625rem;
+  top:82%;
 }
 
 .number {
