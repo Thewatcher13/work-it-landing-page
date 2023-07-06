@@ -372,14 +372,14 @@ border-width: 0;
   }
 
   .hero__section::before {
-    content: url(/assets/images/bg-pattern-1.svg);
+    content: url(../assets/images/bg-pattern-1.svg);
     position: absolute;
     left:-228px;
     top:130px;
   }
 
   .hero__section::after {
-    content: url(/assets/images/bg-pattern-2.svg);
+    content: url(../assets/images/bg-pattern-2.svg);
     position: absolute;
     top:300px;
     right:-100px;
@@ -472,7 +472,7 @@ border-width: 0;
 }
 
 .founder__section::after {
-  content: url(/assets/images/bg-pattern-3.svg);
+  content: url(../assets/images/bg-pattern-3.svg);
   position: absolute;
   top:250px;
   left:400px;
@@ -498,13 +498,13 @@ border-width: 0;
 
 
   .hero__section::before {
-    content: url(/assets/images/bg-pattern-1.svg);
+    content: url(../assets/images/bg-pattern-1.svg);
     position: absolute;
     left:-150px;
   }
 
   .hero__section::after {
-    content: url(/assets/images/bg-pattern-2.svg);
+    content: url(../assets/images/bg-pattern-2.svg);
     position: absolute;
     top:400px;
     right:-50px;
@@ -608,7 +608,7 @@ border-width: 0;
 }
 
 .founder__section::after {
-  content: url(/assets/images/bg-pattern-3.svg);
+  content: url(../assets/images/bg-pattern-3.svg);
   position: absolute;
   top:250px;
   left:820px;
