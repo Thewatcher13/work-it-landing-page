@@ -125,7 +125,7 @@ select {
 .primary__button {
   color:var(--white);
   font-weight: bold;
-  text-decoration: underline #44FFA1 3px;
+  -webkit-text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
 }
 
@@ -180,7 +180,7 @@ header::after {
 }
 
 .tailored {
-  text-decoration: underline #44FFA1 3px;
+  -webkit-text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
 }
 
