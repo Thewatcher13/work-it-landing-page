@@ -127,8 +127,8 @@ select {
   font-weight: bold;
 text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
-  -webkit-text-decoration: underline #44FFA1 3px;
-   -webkit- text-underline-offset: 8px;
+  -epub-text-decoration: underline #44FFA1 3px;
+   -epub-text-underline-offset: 8px;
 }
 
 .primary__button:hover{
@@ -184,8 +184,8 @@ header::after {
 .tailored {
   text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
-  -webkit-text-decoration: underline #44FFA1 3px;
-  -webkit-text-underline-offset: 8px;
+  -epub-text-decoration: underline #44FFA1 3px;
+  -epub-text-underline-offset: 8px;
   
 }
 
