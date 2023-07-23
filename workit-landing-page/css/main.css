@@ -125,8 +125,10 @@ select {
 .primary__button {
   color:var(--white);
   font-weight: bold;
-  -webkit-text-decoration: underline #44FFA1 3px;
+text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
+  -webkit-text-decoration: underline #44FFA1 3px;
+   -webkit- text-underline-offset: 8px;
 }
 
 .primary__button:hover{
@@ -180,8 +182,11 @@ header::after {
 }
 
 .tailored {
-  -webkit-text-decoration: underline #44FFA1 3px;
+  text-decoration: underline #44FFA1 3px;
   text-underline-offset: 8px;
+  -webkit-text-decoration: underline #44FFA1 3px;
+  -webkit-text-underline-offset: 8px;
+  
 }
 
 .secondary__button {
